@@ -1,0 +1,40 @@
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.exe.config
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.exe
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.pdb
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csprojResolveAssemblyReference.cache
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.Form1.resources
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.Properties.Resources.resources
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csproj.GenerateResource.Cache
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csproj.CoreCompileInputs.cache
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.exe
+E:\Sleep\C#\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.pdb
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.Form1.resources
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.Properties.Resources.resources
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.exe
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.pdb
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.exe.config
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.exe
+C:\Users\User\Desktop\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.pdb
+G:\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.exe.config
+G:\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.exe
+G:\Lab_Task_2\Lab_Task_2\bin\Debug\Lab_Task_2.pdb
+G:\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csprojResolveAssemblyReference.cache
+G:\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.Form1.resources
+G:\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.Properties.Resources.resources
+G:\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csproj.GenerateResource.Cache
+G:\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.csproj.CoreCompileInputs.cache
+G:\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.exe
+G:\Lab_Task_2\Lab_Task_2\obj\Debug\Lab_Task_2.pdb
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\bin\Debug\Lab_Task_2.exe.config
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\bin\Debug\Lab_Task_2.exe
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\bin\Debug\Lab_Task_2.pdb
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\obj\Debug\Lab_Task_2.csprojResolveAssemblyReference.cache
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\obj\Debug\Lab_Task_2.Form1.resources
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\obj\Debug\Lab_Task_2.Properties.Resources.resources
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\obj\Debug\Lab_Task_2.csproj.GenerateResource.Cache
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\obj\Debug\Lab_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\obj\Debug\Lab_Task_2.exe
+C:\Users\Tawhid\Desktop\New folder\Lab_Task_2\obj\Debug\Lab_Task_2.pdb
